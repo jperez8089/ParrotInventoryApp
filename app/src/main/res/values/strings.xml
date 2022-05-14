@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_name_error">Please enter item name</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="item_quantity_error">Please enter item quantity</string>
+    <string name="item_quantity_less_error">Item Quantity must be greater than 1</string>
+    <string name="item_quantity_in_valid_error">Please enter valid item quantity</string>
+    <string name="enter_item_quantity">Enter item quantity</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_description_error">Please enter item description</string>
+    <string name="enter_item_description">Enter item description</string>
+    <string name="add_record">Add Record</string>
+    <string name="add_record_success">Record added successfully</string>
+    <string name="delete_record_success">Record deleted successfully</string>
+    <string name="update_record_success">Record updated successfully</string>
+    <string name="image_place_holder">Image here</string>
+    <string name="update_record">Update Record</string>
+</resources>
